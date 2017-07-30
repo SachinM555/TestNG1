@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11038" started-at="2017-07-30T07:32:50Z" finished-at="2017-07-30T07:33:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11038" started-at="2017-07-30T07:32:50Z" finished-at="2017-07-30T07:33:01Z">
+      <class name="spkm.Spk">
+        <test-method status="PASS" signature="publicvoidtestgooglrsearch()[pri:0, instance:spkm.Spk@69b199]" name="publicvoidtestgooglrsearch" duration-ms="11015" started-at="2017-07-30T13:02:50Z" finished-at="2017-07-30T13:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publicvoidtestgooglrsearch -->
+      </class> <!-- spkm.Spk -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
